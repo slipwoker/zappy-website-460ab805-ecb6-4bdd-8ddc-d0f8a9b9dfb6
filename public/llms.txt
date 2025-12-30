@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# ניחוחות של אור — Generative Engine Optimization Map
+
+> A מוצרי ניקיון וטיפוח business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://nikhuhot-shel-or.zappy5.app
+https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com
 גלו מוצרי ניקיון לבית ומוצרי טיפוח טבעיים ידידותיים לסביבה. פתרונות איכותיים למשפחות ועסקים. צרו קשר עוד היום!
 
 ### המוצרים שלנו
-https://nikhuhot-shel-or.zappy5.app/products
+https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/products
 מגוון מלא של מוצרי ניקיון לבית אקולוגיים ומוצרי טיפוח טבעיים. פתרונות ידידותיים לסביבה למשפחות ועסקים.
 
 ### אודות
-https://nikhuhot-shel-or.zappy5.app/about
+https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/about
 גלו את הסיפור מאחורי ניחוחות של אור ואת המחויבות שלנו לייצור מוצרי ניקיון וטיפוח טבעיים ידידותיים לסביבה.
 
 ### צור קשר
-https://nikhuhot-shel-or.zappy5.app/contact
+https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/contact
 צרו קשר עם ניחוחות של אור לייעוץ אישי על מוצרי ניקיון לבית ומוצרי טיפוח טבעיים. אנחנו כאן לענות על כל שאלה!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://nikhuhot-shel-or.zappy5.app/privacy
+https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://nikhuhot-shel-or.zappy5.app/terms
+https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://nikhuhot-shel-or.zappy5.app/accessibility
+https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About ניחוחות של אור
+ניחוחות של אור is a business in the מוצרי ניקיון וטיפוח industry.
+
+## Target Audience
+- משפחות ידידותיות לסביבה
+- חובבי טיפוח
+- בעלי עסקים קטנים
+
+## Industry
+מוצרי ניקיון וטיפוח
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://nikhuhot-shel-or.zappy5.app/sitemap.xml
-- **Robots.txt**: https://nikhuhot-shel-or.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-460ab805-ecb6-4bdd-8ddc.onrender.com/robots.txt
