@@ -1,6 +1,4 @@
-# ניחוחות של אור — Generative Engine Optimization Map
-
-> A מוצרי ניקיון וטיפוח business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,17 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ניחוחות של אור
-ניחוחות של אור is a business in the מוצרי ניקיון וטיפוח industry.
-
-## Target Audience
-- משפחות ידידותיות לסביבה
-- חובבי טיפוח
-- בעלי עסקים קטנים
-
-## Industry
-מוצרי ניקיון וטיפוח
-
+## About Business
 ---
 
 # Additional Resources
